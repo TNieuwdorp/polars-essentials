@@ -1,0 +1,10 @@
+
+Animal;Scientific_Name;Average_Weight_kg;Average_Lifespan_years;Habitat;Conservation_Status
+units;-- ;kg;years;-- ;--
+Polar Bear;Ursus maritimus;450;25;Arctic Sea;Vulnerable
+Giant Panda;Ailuropoda melanoleuca;100;20;Temperate Forest;Vulnerable
+Narwhal;Monodon monoceros;900;50;Arctic Ocean;Near Threatened
+Iberian Lynx;Lynx pardinus;13;14;Mediterranean Scrubland;Endangered
+Penguin King;Aptenodytes patagonicus;;20;Antarctic Coast;n/a
+Arctic Fox;Vulpes lagopus;3.5;10;Tundra;NA
+Red Panda;Ailurus fulgens;5.5;14;Temperate Forest;-

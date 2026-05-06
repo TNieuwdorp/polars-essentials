@@ -18,6 +18,16 @@
  uv run jupyter lab
  ```
 
+ ### Graphviz (Linux only)
+
+ `show_graph()` requires the Graphviz system binary. On Linux, install it before starting:
+
+ ```bash
+ sudo apt-get install graphviz
+ ```
+
+ macOS users: `brew install graphviz`. Windows: see [graphviz.org/download](https://graphviz.org/download/).
+
  ### Option 2: Using standard pip
 
  If you prefer not to use `uv`, you can use standard `pip`:
